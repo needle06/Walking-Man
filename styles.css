@@ -1,0 +1,15 @@
+.container {
+  display: inline-flex;
+  flex-direction: column;
+}
+
+.row {
+  height: 57px;
+}
+
+.cell {
+  width: 55px;
+  height: 55px;
+  border: 1px solid gray;
+  display: inline-block;
+}
